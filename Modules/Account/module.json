@@ -1,0 +1,8 @@
+{
+    "name": "Account",
+    "alias": "account",
+    "description": "",
+    "providers": [
+        "Modules\\Account\\Providers\\AccountServiceProvider"
+    ]
+}
